@@ -24,4 +24,5 @@ Initially I started with 2 hidden layers, the first one with 80 neurons and seco
 
 Below you can see the evaluation of the first and the second model in order:
 ![image](https://user-images.githubusercontent.com/117786659/229657056-2c4c1b62-35cc-4878-9882-24904db185e6.png)
+![image](https://user-images.githubusercontent.com/117786659/229657110-0b0fcb97-2a43-45d0-bb68-672bb4474f41.png)
 
