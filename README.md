@@ -1,5 +1,5 @@
 # Deep Learning Challenge Report 
-Background:
+# Background:
 The purpose of this challenge is to make a machine learning model that helps the user to find the applicants for funding with the best chance of success in their ventures. The model was trained with data from more than 34000 organizations that have received funding  and creates a binary classifier to predict if the applicant is going to be successful or not. 
 
 Results:
